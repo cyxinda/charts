@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tests:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-10T19:22:14.876093919+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 80fac5f99c95c05431ada6928528e5ebf2928590ebea1bae9ab2c1c8ab14c68c
+    name: tests
+    type: application
+    urls:
+    - https://cyxinda.github.io/charts/tests-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-10T19:22:14.875122886+08:00"
